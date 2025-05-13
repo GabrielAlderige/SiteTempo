@@ -33,4 +33,6 @@ Este é um aplicativo simples de previsão do tempo que permite ao usuário busc
 
 ```javascript
 const key = "sua-chave-aqui";
+
+
 Depois de configurar sua chave de API, o aplicativo estará pronto para ser usado.
