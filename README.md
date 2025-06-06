@@ -14,7 +14,7 @@ Um site simples que exibe a previsão do tempo em tempo real com base na cidade 
 - HTML5  
 - CSS3  
 - JavaScript  
-- [OpenWeatherMap API](https://openweathermap.org/api) (ou outra API utilizada)
+- [OpenWeatherMap API](https://openweathermap.org/api)
 
 ## 📷 Prévia
 
@@ -52,4 +52,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Feito por [Gabriel Alderige](https://github.com/GabrielAlderige)  
 📷 Instagram: [@gabrielalderige](https://instagram.com/gabrielalderige)  
-💬 WhatsApp: [Clique aqui para conversar](https://wa.me/55SEUNUMEROAQUI)
+💬 WhatsApp: [Clique aqui para conversar](https://wa.me/5535998416972)
